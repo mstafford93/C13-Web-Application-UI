@@ -14,6 +14,7 @@
 ## Overview
 
 A design for a user interface (UI) for a web application that will offer a different design, layout and function from that traditional website. With responsive design for various viewports.
+<strong>More detail on the process of creating the web page <a href="https://medium.com/@mgstafford/learning-to-code-html-challenge-13-web-application-u-i-design-challenge-e2a32ab88903" target="_blank">Click here</a></strong>
 
 ## Features
 - Responsive webpage dependent on viewport.
