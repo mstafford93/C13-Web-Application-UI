@@ -1,22 +1,54 @@
-C13-Web-Application-UI
-Challange 13 of 13 in my coding journey. Following the template provided in the repository.
+# C13-Web-Application-UI
 
-Dependencies:
-  - HTML 5
-  - CSS
+## Preview
 
-Usage
-  - Run in a source-code text editor (e.g. Visual Studio Code) to view code
-  - Run in web browser to see website
+![Screenshot C13-Fullscreen](https://miro.medium.com/v2/resize:fit:720/format:webp/1*NsOvO3kojPwn_ITFIpaj-Q.png)
+![Screenshot C13-MediumScreen](https://miro.medium.com/v2/resize:fit:720/format:webp/1*_GK4XMTA_ocKVhPIpjWdkw.png)
+![Screenshot C13-SmallScreen](https://miro.medium.com/v2/resize:fit:640/format:webp/1*w2dmLEPM6wl3DW2kc1k9Mw.png)
 
-Configeration 
-  - No config needed
 
-Contributing Guidelines
-  - Project is an individual effort to showcase my skills
 
-Credits
-  - Matthew Stafford
+<br>
+<a href="https://c13-web-application-ui.vercel.app" target="_blank">Live Link Here</a>
 
-Licencing
-  - No licences
+## Overview
+
+A design for a user interface (UI) for a web application that will offer a different design, layout and function from that traditional website. With responsive design for various viewports.
+
+## Features
+- Responsive webpage dependent on viewport.
+- Use of grid and flexbox to diplay information.
+- Focus on webpage design not functionality.
+
+## Technologies
+
+ - HTML5 for page structure.
+ - CSS3 for styling and responsive design.
+
+
+## Installation
+Clone the repository:
+
+`git clone https://github.com/mstafford93/C13-Web-Application-UI`
+
+Navigate to the project directory:
+
+`cd C13-Web-Application-UI`
+
+Open `index.html` in your browser.
+
+No package installation is required.
+
+## Deployment
+
+The website is hosted on Vercel.
+
+Visit the live version here:
+
+https://c13-web-application-ui.vercel.app
+
+## Credits
+
+By Matthew Stafford (Me)
+
+A Front-End Developer project to advertise myself
